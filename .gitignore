@@ -1,0 +1,23 @@
+# Python bytecode and caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Environment configurations & credentials
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Data and output exports (Keep your repository light and clean)
+*.csv
+*.xlsx
+*.png
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
