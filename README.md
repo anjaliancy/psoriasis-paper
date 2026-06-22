@@ -50,7 +50,7 @@ To comply with data privacy boundaries, respect social platform terms of service
 The complete, reproducible scripts are fully available to peer reviewers, journal editors, and academic researchers **upon reasonable request**. 
 
 ### How to Request Access
-If you are a reviewer or researcher wishing to audit the pipeline, please contact the corresponding author at **[insert your institutional email here]** with:
+If you are a reviewer or researcher wishing to audit the pipeline, please contact the author at **ducrest@skinaid.edu** with:
 1. Your name and institutional affiliation.
 2. The purpose of your review or study.
 3. Your GitHub username.
