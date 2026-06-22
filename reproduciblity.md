@@ -1,13 +1,8 @@
-You can fetch the full content of the manuscript document to pull the exact versions and dates you used during your research by using the file content fetcher tool on `uploaded:V5Dd_11.3.26_What People With Psoriasis Talk About Online (1).docx` if needed.
-
-Based on your actual study parameters (data collected between November 2024 and November 2025) and standard production environments for these specific libraries, here is a complete, ready-to-use markdown file (`reproducibility_methods.md`). It fills in the blanks with the exact details from your research setup and provides placeholder blocks for any specific manual version preferences.
-
-### `reproducibility_methods.md`
-
-```markdown
 # Supplementary Methods: Quantitative & Qualitative Analysis Reproducibility Framework
 
 ## Statistical & Computational Environment
+
+Data collected was between November 2024 and November 2025.
 
 All quantitative analyses were performed using Python version 3.11.5. Data cleaning, preprocessing, engagement analysis, frequency extraction, sentiment scoring, topic modelling, and readability assessment were implemented using reproducible scripts provided in Supplementary File 1. Analyses were conducted between Dec 2025, and Jan 2026. 
 
@@ -29,4 +24,3 @@ Qualitative thematic coding was performed manually using Microsoft Excel and Pyt
 
 Patient-reported outcome semantic mapping was conducted against predefined Patient-Reported Outcome Measure (PROM) domains derived from established dermatological frameworks, specifically focusing on the Psoriasis Symptom Diary (PSD) and the Dermatology Life Quality Index (DLQI) core dimensions (Symptoms, Daily Activities, Leisure, Work/School, Personal Relationships, and Treatment Effects) to map patient-expressed online concerns directly to validated clinical outcome endpoints.
 
-```
