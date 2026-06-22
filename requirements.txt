@@ -1,0 +1,22 @@
+# --- Core Data Manipulation & Framework Matrices ---
+pandas==2.1.1
+numpy==1.26.0
+scikit-learn==1.3.1
+
+# --- API Data Ingestion Gateways ---
+praw==7.7.1
+google-api-python-client==2.100.0
+
+# --- Natural Language Processing & Linguistic Metrics ---
+nltk==3.8.1
+textstat==0.7.3
+
+# --- Sentiment Cascading & Deep Learning Inference ---
+vaderSentiment==3.3.2
+transformers==4.34.0
+sentence-transformers==2.2.2
+torch==2.1.0
+
+# --- Visual Dashboards & Statistical Plotting ---
+matplotlib==3.8.0
+seaborn==0.13.0
