@@ -43,6 +43,21 @@ Linguistic Accessibility Engine: Evaluates text complexity, reading ease, and st
 
 Hybrid Sentiment Cascade: Processes subjective patient health experiences. Evaluates expressions via VADER for standard classifications, falling back dynamically to a contextual transformer (CardiffNLP Twitter-RoBERTa-Base-Sentiment) for nuanced patient narratives.
 
+## 🔒 Code Availability Policy
+
+To comply with data privacy boundaries, respect social platform terms of service, and maintain strict environmental security, **this codebase is closed-source and private by default.** 
+
+The complete, reproducible scripts are fully available to peer reviewers, journal editors, and academic researchers **upon reasonable request**. 
+
+### How to Request Access
+If you are a reviewer or researcher wishing to audit the pipeline, please contact the corresponding author at **[insert your institutional email here]** with:
+1. Your name and institutional affiliation.
+2. The purpose of your review or study.
+3. Your GitHub username.
+
+Once verified, you will be temporarily added as a private collaborator to this repository to inspect the data collection and text analytics pipeline architectures.
+
+---
 ⚙️ Environment Setup & Installation
 
 Prerequisites
