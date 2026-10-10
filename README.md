@@ -146,3 +146,5 @@ The automated quantitative extractions directly feed into and complement manual 
 Thematic Grounding: Computational extractions are structured to prepare text for validation under Braun and Clarke’s six-phase qualitative thematic analysis framework.
 
 Clinical Semantic Mapping: Extracted topics, video metas, and patient sentiment expressions are mapped directly onto core Patient-Reported Outcome Measure (PROM) criteria, including the Psoriasis Symptom Diary (PSD) and Dermatology Life Quality Index (DLQI) dimensions.
+
+#For the purpose of the academic submission, code files are currently in .txt. Convert to .py to use the module. 
